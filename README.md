@@ -1,0 +1,1 @@
+# AvtotestCypress.js
